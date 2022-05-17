@@ -19,3 +19,7 @@
 - Cancel order:
 + Path: http://localhost:3000/orders/:orderId
 + Method: PUT
+
+
+* Kubernetes deployment: 
+- The kubernetes templates are still be in-progress.
