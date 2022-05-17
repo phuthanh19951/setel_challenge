@@ -1,5 +1,5 @@
 1. Checkout master branch to clone the latest version of source code.
-2. At root path, run command "docker-compose up -d" to start all services.
+2. At root path, run command "docker-compose up -d" to start all services. Please make sure that your local machine which is running a docker.
 
 * NOTE: there're some sample API endpoints for testing.
 
